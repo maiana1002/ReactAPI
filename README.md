@@ -9,7 +9,8 @@ Este projeto consiste na criação de duas páginas com REACT: uma página de lo
 - React Router: Para navegação entre as páginas de login e notificações.
 - State Management: Gerenciamento de estados do login e das notificações com o useState e useEffect do React.
 
-## Simulação de login: Simulação simples de login com verificação de usuário fictício (sem backend real).
+## Simulação de login: 
+- Simulação simples de login com verificação de usuário fictício (sem backend real).
 
 ## Fluxo: 
 > Ao acessar a tela de login, preencher qualquer informação nos campos.
